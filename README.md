@@ -1,5 +1,5 @@
 # DevTools_HW
-This list of tasks is displayed in the video DevTools_HW.mp4
+This list of tasks is displayed in the video DevTools_HW.mp4:
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
